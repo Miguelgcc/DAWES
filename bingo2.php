@@ -1,5 +1,5 @@
 <HTML>
-<HEAD> <TITLE> Arrays Multidimensionales </TITLE> </HEAD>
+<HEAD> <TITLE> Bingo </TITLE> </HEAD>
 
 <BODY>
 <?php
